@@ -6,3 +6,7 @@ Sandbox*.ipynb
 
 # macOS metadata
 .DS_Store
+
+# Office temporary files
+~\$*.doc*
+~\$*.xls*
