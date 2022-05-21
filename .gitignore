@@ -1,0 +1,8 @@
+
+# Jupyter sandboxes
+.ipynb_checkpoints
+Untitled*.ipynb
+Sandbox*.ipynb
+
+# macOS metadata
+.DS_Store
