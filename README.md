@@ -1,6 +1,6 @@
 # A Typographical Facsimile of Scarlatti's Barcelona MS. 1964 Manuscript
 
-[![DOI](https://zenodo.org/badge/494670605.svg)](https://zenodo.org/badge/latestdoi/494670605)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6575358.svg)](https://doi.org/10.5281/zenodo.6575358)
 
 This repository contains the Sibelius source and PDF sheet music of a **typographical facsmile**
 of the Barcelona MS 1964 manuscript containing Domenico Scarlatti sonatas.

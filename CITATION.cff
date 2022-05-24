@@ -7,7 +7,7 @@ authors:
     orcid: https://orcid.org/0000-0003-3830-6198
 abstract: "This repository contains the Sibelius source and PDF sheet music of a 'typographical facsmile' of the Barcelona MS 1964 manuscript containing 37 known Domenico Scarlatti sonatas, and 2 of spurious attribution. The typographical facsimile is identical in all manners to the original manuscript, down to the direction of the stems."
 version: v1.0.1
-doi: 10.5281/zenodo.6575347
+doi: 10.5281/zenodo.6575358
 license: MIT
 date-released: 2022-05-24
 keywords:
